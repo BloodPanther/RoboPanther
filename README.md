@@ -1,0 +1,2 @@
+# RoboPanther
+A discord bot.
