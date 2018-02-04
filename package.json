@@ -1,0 +1,7 @@
+{
+  "name": "RoboPanther",
+  "version": "1.0.0",
+  "description": "RoboPanther is a bot designed for Club Penguin Armies. By BloodPanther.",
+  "main": "bot.js",
+  "author": "BloodPanther",
+  "dependencies": {}
