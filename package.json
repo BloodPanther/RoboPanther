@@ -1,8 +1,13 @@
 {
   "name": "RoboPanther",
-  "version": "1.0.0",
-  "description": "RoboPanther is a bot designed for Club Penguin Armies. By BloodPanther.",
+  "description": "A public Discord bot optimized for Club Penguin Armies.",
+  "version": "0.0.0",
   "main": "bot.js",
-  "author": "BloodPanther",
-  "dependencies": {}
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
