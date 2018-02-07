@@ -10,7 +10,7 @@ client.on('message', message => {
     	message.reply('pong');
   	}
     if (message.content === '|h') or (message.content === '|help') {
-        message.reply('This bot\'s prefix is |.\nAvailable Commands:\nh or help: Shows bot prefix and available bot commands.');
+        message.reply('This bot\'s prefix is |.\nAvailable Commands:\nh or help: Shows bot prefix and available bot commands.\nping: The bot will say pong. Used for testing purposes.');
     }
 });
 
